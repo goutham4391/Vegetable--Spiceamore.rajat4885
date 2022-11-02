@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Nov 2022 13:15:51 at https://www.spiceamore.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.spiceamore.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day14\Web66\Site66" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/indexbb02.html?route=product/product&product_id=42 (from https://www.spiceamore.com/)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/s7.addthis.com/js/300/addthis_widget.js (from https://www.spiceamore.com/)
+13:16:24	Warning: 	Link https://www.spiceamore.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/letstry-toparrow.png (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/menu-toparrow.png (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/bg-subcribe.jpg (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/slides/slide3.jpg (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/slides/slide7.jpg (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/slides/slide8.jpg (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/slides/slide9.jpg (from https://www.spiceamore.com/css/style-slider.css)
+13:16:24	Error: 	"Not Found" (404) at link https://www.spiceamore.com/images/menu-leftarrow.png (from https://www.spiceamore.com/css/style-slider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 131 links scanned, 120 files written (15450769 bytes overall) [14115075 bytes received at 427729 bytes/sec], 1827076 bytes transferred using HTTP compression in 65 files, ratio 21%, 14.5 requests per connection
+(10 errors, 1 warnings, 0 messages)
